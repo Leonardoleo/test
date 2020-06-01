@@ -1,4 +1,4 @@
-import { jexiaClient, dataOperations, realTIme } from "jexia-sdk-js/browser"; // "jexia-sdk-js/browser" for browser applications
+import { jexiaClient, dataOperations, realTIme } from "jexia-sdk-js/node"; // "jexia-sdk-js/browser" for browser applications
 const dataModule = dataOperations();
 
 jexiaClient().init(credentials, dataModule, realTIme, {
