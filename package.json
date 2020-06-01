@@ -1,0 +1,22 @@
+{
+  "name": "test-filesss",
+  "version": "1.0.0",
+  "description": "test",
+  "main": "test.js",
+  "scripts": {
+    "test": "\"\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Leonardoleo/test.git"
+  },
+  "keywords": [
+    "test"
+  ],
+  "author": "leo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Leonardoleo/test/issues"
+  },
+  "homepage": "https://github.com/Leonardoleo/test#readme"
+}
