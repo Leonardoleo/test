@@ -21,7 +21,7 @@
   "homepage": "https://github.com/Leonardoleo/test#readme",
   "dependencies": {
     "jexia-sdk-js": "^4.10.2",
-    "node-fetch": "^2.6.0",
+    "node-fetch": "^3.1.1",
     "ws": "^7.3.0"
   }
 }
